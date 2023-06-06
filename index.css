@@ -2,6 +2,7 @@ body {
     margin: 0px;
     background-color: green;
     height:100vh;
+    justify-items:center;
 }
 
 .main {
