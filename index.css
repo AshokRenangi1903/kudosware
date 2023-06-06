@@ -6,13 +6,15 @@ body {
 }
 
 .main {
+    display:flex;
     background-color: white;
     margin: 30px 28%;
-    align-self: center;
+   
     border: solid green 2px;
     border-radius: 20px;
     padding: 20px 0px;
-    justify-items:center;
+    justify-content:center;
+    align-items:center;
     
 
 }
