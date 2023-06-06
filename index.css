@@ -12,8 +12,6 @@ body {
     display: flex;
     background-color: white;
     margin: 30px 28%;
-    flex-direction: column;
-   
     border: solid green 2px;
     border-radius: 20px;
     padding: 20px 0px;
